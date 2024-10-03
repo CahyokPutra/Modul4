@@ -1,5 +1,5 @@
 
-class Perpustakaan:
+class Perpustakaan : 
     def __init__(self):
         self.buku = []  
     
